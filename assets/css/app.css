@@ -8,6 +8,8 @@
   }
   body {
     background-color: #f8f4ff;
+    /* background-color: #000; */
+    /* color: #fff; */
   }
   a {
     color: #000;
@@ -16,8 +18,17 @@
     font-weight: 500;
   }
   h5 {
-    /* background-color: gray; */
+    background-color: #000;
+    color: #39ff14;
+    display: inline;
+    padding: 3px;
   }
+
+  /* footer p {
+    background-color: #000;
+    color: #39ff14;
+    padding: 3px;
+  } */
 
 
   .profile-image img {
